@@ -26,4 +26,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Tugle07&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=c9d1d9&title_color=58a6ff" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tugle07&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=c9d1d9&title_color=58a6ff" height="150" alt="Top Languages" />
 </div>
-<img width="2278" height="1321" alt="image" src="https://github.com/user-attachments/assets/e4c1c3b5-4ebe-465c-ba38-11b5f3f71930" />
+
