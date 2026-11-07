@@ -5,7 +5,7 @@
 
   <!-- Animated Typing Subtitle -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=38BDF8&center=true&vCenter=true&width=580&lines=Competitive+Programming+%C2%B7+Aiming+for+ICPC+%E2%9A%A1;Grinding+C%2B%2B+%26+Data+Structures+%F0%9F%92%BB;Exploring+Rust+%26+Low-level+Systems+%F0%9F%A6%80;Night+Owl+Coder+%F0%9F%8C%99" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=38BDF8&center=true&vCenter=true&width=500&lines=Grinding+C%2B%2B+for+ICPC+%E2%9A%A1;Linux+%26+System+Enthusiast+%F0%9F%90%A7;Night+Owl+Coder+%F0%9F%8C%99" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -23,14 +23,13 @@
 
 ### 👨‍💻 Về mình
 
-- ⚡ Đam mê cấu trúc dữ liệu & giải thuật, đang ngày đêm cày **C++ hướng tới ICPC**.
-- ☕ Thích tìm hiểu low-level, Linux, Docker và đang tò mò học thêm **Rust**.
-- 🚀 Thích tự tay build các công cụ & side-projects cá nhân để cọ xát thực tế.
-- 🌙 Cú đêm chính hiệu, thích sự yên tĩnh và nghe nhạc khi gõ code.
+- ⚡ Grinding C++ for ICPC.
+- 🐧 Vọc vạch Linux & System.
+- 🌙 Thức khuya và gõ code.
 
 ---
 
-### 🛠️ Kỹ năng & Công cụ (Tech Stack)
+### 🛠️ Ngôn ngữ & Công cụ
 
 <div align="center">
 
@@ -50,18 +49,10 @@
 
 ---
 
-### 📈 Thống kê GitHub (GitHub Activity & Streak)
+### 📈 Thống kê GitHub
 
 <div align="center">
   <a href="https://github.com/Tugle07">
     <img src="https://streak-stats.demolab.com?user=Tugle07&theme=tokyonight&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D" alt="Tugle07 GitHub Streak" />
   </a>
-</div>
-
----
-
-<div align="center">
-  <p align="center">
-    <i>"Now or Never — Không ngừng học hỏi, tôi luyện và nâng tầm tư duy hệ thống."</i>
-  </p>
 </div>
